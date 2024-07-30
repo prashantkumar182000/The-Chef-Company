@@ -1,4 +1,4 @@
-# Chef-Factory
+# The Chef Company
 
 [Visit Chef-Factory](https://prashantkumar182000.github.io/Chef-Factory/)
 
