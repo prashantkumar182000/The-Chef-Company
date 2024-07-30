@@ -1,6 +1,6 @@
 # The Chef Company
 
-[Visit Chef-Factory](https://prashantkumar182000.github.io/Chef-Factory/)
+[Visit the Website](https://prashantkumar182000.github.io/Chef-Factory/)
 
 ## About Us
 
