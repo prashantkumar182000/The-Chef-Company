@@ -1323,7 +1323,7 @@ section.timetable .column-divider {
 /*** Menu section** */
 
 section.menu {
-    padding-bottom: 40px;
+    padding-bottom: 10px;
     padding-top: 0px;
     background-image: url("../images/menu_left.jpg"), url("../images/menu_right.jpg");
     background-position: top left, top right;
