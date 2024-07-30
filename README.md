@@ -1,6 +1,6 @@
-# Chef-Factory
+# The Chef Company
 
-[Visit Chef-Factory](https://prashantkumar182000.github.io/Chef-Factory/)
+[Visit the website](https://thechefcompany.netlify.app/)
 
 ## About Us
 
@@ -41,9 +41,9 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For more information, visit our [website](https://prashantkumar182000.github.io/Chef-Factory/) or contact us at:
-- **Email**: info@thechefcompany.tv
-- **Phone**: +91-9934303678
+For more information, visit our [website](https://thechefcompany.netlify.app/) or contact us at:
+- **Email**: info@thechefcompany.xx
+- **Phone**: +91-993430xxxx
 - **Address**: All Metro Cities, India
 
 ## Follow Us
